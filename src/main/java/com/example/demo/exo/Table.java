@@ -18,15 +18,3 @@ public class Table {
         return this.longeur * this.largeur;
     }
 }
-
-// portefeuille
-//couleur
-//porteCarte
-//poids
-//marque
-
-//getMoney
-//addMoney
-//checkMoney
-//addCard
-//lost
